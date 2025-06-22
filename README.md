@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm azharutama</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">WEB DEVELOPER</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=azharutama&label=Profile%20views&color=0e75b6&style=flat" alt="azharutama" />
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=azharutama" alt="azharutama" />
+    <img src="https://github-profile-trophy.vercel.app/?username=azharutama&theme=darkhub&margin-w=10&margin-h=10" alt="azharutama trophies" />
   </a>
 </p>
 
@@ -118,15 +118,14 @@
   </a>
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azharutama&show_icons=true&locale=en&layout=compact" alt="azharutama" />
-</p>
+### 📊 GitHub Stats
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=azharutama&show_icons=true&locale=en" alt="azharutama" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azharutama&show_icons=true&theme=dark" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azharutama" alt="azharutama" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azharutama&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azharutama&layout=compact&theme=dark" />
 </p>
