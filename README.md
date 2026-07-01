@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Muhammad Azhar Utama</h1>
-  <h3>Backend Developer</h3>
+  <h3>Web Developer</h3>
   <p><em>Specialized in building robust APIs, scalable server-side solutions, and database architectures</em></p>
 </div>
 
